@@ -1,7 +1,7 @@
 def my_sqaure(y):
     """takes a value and returns the squared value.
     
-    uses the ** operator
+    uses the * operator
     """
     return(y ** 2)
 
